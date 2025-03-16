@@ -1,0 +1,8 @@
+READ ME:
+A.11 we did more inside data strucs and comprehensions and used Set operations to solve problems
+using set differences, focusing on common elements among sets
+
+We also did DNA GC content calculation as we calculated and printed the percent of G and C
+
+Rewriting a lot of code list comprehensions with the same functionality to find easier ways
+and to limit code lines 
